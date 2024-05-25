@@ -1,4 +1,5 @@
-# appnacollage
+# zindigi bekar
 this is my first repository
 <br>
-author - harshita agrwal 
+author - harshita agrwal
+
