@@ -1,5 +1,7 @@
 # Learning
 this is my first repository
 <br>
-author - harshita agarwal
+Author - Harshita Agarwal
+
+* Adding Feature 1 Changes.
 
