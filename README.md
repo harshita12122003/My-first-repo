@@ -1,5 +1,5 @@
-# Learning
+# Exploring GitHub
 this is my first repository
 <br>
-author - harshita agarwal
+Author - harshita agarwal.
 
