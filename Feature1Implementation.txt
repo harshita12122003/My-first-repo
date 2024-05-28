@@ -1,3 +1,1 @@
 This is a representation of my feature 1 implementation.
-
-** Accidentally introducing a bug **
