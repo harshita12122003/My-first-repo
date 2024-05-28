@@ -1,5 +1,8 @@
 # Exploring GitHub
 this is my first repository
 <br>
-Author - harshita agarwal.
+Author - Harshita Agarwal
+
+* Adding Feature 1 Changes.
+
 
