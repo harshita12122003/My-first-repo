@@ -1,4 +1,4 @@
-# Learning
+# Exploring GitHub
 this is my first repository
 <br>
 Author - Harshita Agarwal
